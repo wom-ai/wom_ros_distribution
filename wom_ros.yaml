@@ -1,0 +1,6 @@
+wom_ros_interfaces:
+  ubuntu:
+    humble: ros-humble-wom-ros-interfaces
+wom_ros:
+  ubuntu:
+    humble: ros-humble-wom-ros
